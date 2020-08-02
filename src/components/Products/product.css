@@ -1,0 +1,40 @@
+.products-row {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.product-title {
+  font-size: 20px;
+}
+
+.prod-image {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.prod-title {
+  font-size: 10px;
+}
+
+.card-subtitle {
+  font-size: 13px;
+  color: #000;
+}
+
+.prod-qty {
+  margin-top: 15px;
+}
+
+.prod-qty > input {
+  margin-right: 50px;
+}
+
+.bskt-icon {
+  background-image: url(../../product_images/product-deck-sprite.webp);
+  background-repeat: no-repeat;
+  background-position: -5px -5px;
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  vertical-align: bottom;
+}
